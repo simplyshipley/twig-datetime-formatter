@@ -1,0 +1,4 @@
+name: Twig DateTime Formatter
+type: module
+description: Twig datetime field formatter
+core: 8.x
