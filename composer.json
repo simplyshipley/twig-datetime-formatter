@@ -1,6 +1,6 @@
 {
     "name": "simplyshipley/twig_datetime_formatter",
-    "type": "module",
+    "type": "drupal-module",
     "description": "Drupal module that adds a twig datetime field formatter",
     "keywords": ["drupal", "twig", "datetime", "field formatter"],
     "homepage": "https://github.com/simplyshipley/twig-datetime-formatter",
