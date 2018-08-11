@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "twig_datetime_formatter": "src"
+            "twig_datetime_formatter\": "src"
         }
     }
 }
