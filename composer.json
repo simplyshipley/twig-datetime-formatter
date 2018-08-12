@@ -1,24 +1,27 @@
 {
-    "name": "simplyshipley/twig_datetime_formatter",
-    "type": "drupal-module",
-    "description": "Drupal module that adds a twig datetime field formatter",
-    "keywords": ["drupal", "twig", "datetime", "field formatter"],
-    "homepage": "https://github.com/simplyshipley/twig-datetime-formatter",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Bo Shipley",
-            "email": "bo@bastardize.me",
-            "homepage": "",
-            "role": "Developer"
-        }
-    ],
-    "require": {
-        "php": ">=7.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "twig_datetime_formatter\\": "src"
-        }
+  "name": "simplyshipley/twig_datetime_formatter",
+  "type": "drupal-module",
+  "description": "Drupal module that adds a twig datetime field formatter",
+  "license": "GPL-2.0-or-later",
+  "keywords": [
+    "Drupal",
+    "Twig",
+    "Datetime",
+    "Field Formatter"
+  ],
+  "authors": [
+    {
+        "name": "Bo Shipley",
+        "email": "bo@bastardize.me",
+        "role": "Developer"
     }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "twig_datetime_formatter": "src"
+     }
+  }
 }
